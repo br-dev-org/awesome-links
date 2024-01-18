@@ -1,4 +1,4 @@
-# awseome-links
+# awesome-links
 Lista de links interessantes para desenvolvedores.
 
 ## Ferramentas
