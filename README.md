@@ -1,5 +1,5 @@
 # awseome-links
-Lista de links interessantes.
+Lista de links interessantes para desenvolvedores.
 
 ## Ferramentas
 
